@@ -19,8 +19,63 @@
   "players": [
     {
       "province": "Bagmati",
-      "month": "january",
+      "month": "January",
       "players": 200
+    },
+    {
+      "province": "Bagmati",
+      "month": "February",
+      "players": 10
+    },
+    {
+      "province": "Bagmati",
+      "month": "March",
+      "players": 100
+    },
+    {
+      "province": "Bagmati",
+      "month": "April",
+      "players": 20
+    },
+    {
+      "province": "Bagmati",
+      "month": "May",
+      "players": 40
+    },
+    {
+      "province": "Bagmati",
+      "month": "June",
+      "players": 80
+    },
+    {
+      "province": "Gandaki",
+      "month": "January",
+      "players": 150
+    },
+    {
+      "province": "Gandaki",
+      "month": "February",
+      "players": 100
+    },
+    {
+      "province": "Gandaki",
+      "month": "March",
+      "players": 40
+    },
+    {
+      "province": "Gandaki",
+      "month": "April",
+      "players": 30
+    },
+    {
+      "province": "Gandaki",
+      "month": "May",
+      "players": 10
+    },
+    {
+      "province": "Gandaki",
+      "month": "June",
+      "players": 100
     }
   ]
 }
