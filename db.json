@@ -76,6 +76,66 @@
       "province": "Gandaki",
       "month": "June",
       "players": 100
+    },
+    {
+      "province": "Karnali",
+      "month": "January",
+      "players": 50
+    },
+    {
+      "province": "Karnali",
+      "month": "February",
+      "players": 100
+    },
+    {
+      "province": "Karnali",
+      "month": "March",
+      "players": 20
+    },
+    {
+      "province": "Karnali",
+      "month": "April",
+      "players": 100
+    },
+    {
+      "province": "Karnali",
+      "month": "May",
+      "players": 50
+    },
+    {
+      "province": "Karnali",
+      "month": "June",
+      "players": 100
+    },
+    {
+      "province": "Lumbini",
+      "month": "January",
+      "players": 20
+    },
+    {
+      "province": "Lumbini",
+      "month": "February",
+      "players": 20
+    },
+    {
+      "province": "Lumbini",
+      "month": "March",
+      "players": 100
+    },
+    {
+      "province": "Lumbini",
+      "month": "April",
+      "players": 20
+    },
+    {
+      "province": "Lumbini",
+      "month": "May",
+      "players": 200
+    },
+    {
+      "province": "Lumbini",
+      "month": "June",
+      "players": 70
     }
   ]
 }
